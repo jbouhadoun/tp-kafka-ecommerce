@@ -219,7 +219,7 @@ python kafka_dashboard.py      # Terminal 7 (optionnel)
 - **Archive ZIP** : `TP_Kafka.zip`
                      
 - **Contenu** : 
-  - Un fichier binome.md contenant les noms des membres du binôme (ou le nom unique si travail individuel).
+  - Un fichier groupe.md contenant les noms des membres du groupe (ou le nom unique si travail individuel).
   - Tous les fichiers .py complétés
 
 - **Deadline** : 18h
