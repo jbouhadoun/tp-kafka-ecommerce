@@ -58,7 +58,7 @@ Votre mission : **Migrer vers une architecture événementielle** basée sur Apa
 
 ## 📂 FICHIERS FOURNIS
 
-Vous recevrez **7 fichiers Python** avec des TODO numérotés à compléter :
+Vous recevrez **8 fichiers Python** avec des TODO numérotés à compléter :
 
 ### 1. **setup_topics.py** (13 TODO)
 Configuration automatique des topics Kafka
