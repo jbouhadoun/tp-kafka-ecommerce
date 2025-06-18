@@ -1,6 +1,6 @@
 # TP NOTÉ - KAFKA E-COMMERCE TECHSHOP
 
-**Durée :** 3 heures  
+**Durée :** 4 heures  
 **Modalité :** GROUPE  (4 MAX)  
 
 ---
